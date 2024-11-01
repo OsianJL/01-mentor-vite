@@ -1,1 +1,2 @@
-Línea inicial en conflicto-ejemplo
+Línea modificada en conflicto-ejemplo
+
