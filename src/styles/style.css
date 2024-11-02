@@ -9,14 +9,3 @@
 }
 
 
-.test1{
-    @apply border-2 border-red-500; 
-}
-
-.test2 {
-    @apply border-2 border-blue-500; 
-}
-
-.test3 {
-    @apply border-2 border-green-500; 
-}
